@@ -1,0 +1,5 @@
+provider_code,num_residential_patients,num_day_patients,state_of_DE,
+CHIMES-BE,1,0,False,
+DDDS-BE,1,0,True,
+ESDE-BE,4,5,True,
+TSA-BE,1,0,False,

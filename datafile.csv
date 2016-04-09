@@ -1,0 +1,15 @@
+Provider Name,Provider Code,Last Name,First Name,Individual Status,Date Of Birth,Id Number,SSN,Medicaid Number,Program Type,Program Name,Program Type Name
+Easter Seals Delaware & Maryland's Eastern Shore,ESDE-BE,Active,Mary,Admitted,10-DEC-1990,0001004995,,0001004995,2-Day,NC Facility-Based Activities - 61CC,DH (Day Habilitation Site)
+The Salvation Army DDP,TSA-BE,Active,Mary,Admitted,05-APR-1939,191051,000-00-0379,0000191051,1-Residential,Shipbuilders Village,CR-Group Home (Community Residence - Supervised)
+State Of Delaware - DDDS,DDDS-BE,Anderson,Jacob,Admitted,09-OCT-1987,0000494655,222-72-3072,0000494655,1-Residential,FSU - New Castle,FC (Family Care)
+The Chimes,CHIMES-BE,Anderson,Jacob,Admitted,05-MAY-1968,0000271337,222-58-3783,0000271337,1-Residential,Harmony,Neighborhood Home
+The Chimes,CHIMES-BE,Anderson,Jacob,Admitted,05-MAY-1968,0000271337,222-58-3783,0000271337,2-Day,CARES Enrichment,DS (Day Services)
+Easter Seals Delaware & Maryland's Eastern Shore,ESDE-BE,RptNmDifPr,A,Admitted,01-JAN-1988,111111,,111111,1-Residential,NC Facility-Based Activities – 61CC,CR-Group Home (Community Residence – Supervised)
+Easter Seals Delaware & Maryland's Eastern Shore,ESDE-BE,RptNmDifPr,A,Admitted,02-FEB-2001,222222,222-22-2222,,2-Day,NC Facility-Based Activities – 61CC,DH (Day Habilitation Site)
+Easter Seals Delaware & Maryland's Eastern Shore,ESDE-BE,RptNmDifPr,A,Admitted,,,333-33-3333,,1-Residential,NC Facility-Based Activities – 61CC,CR-Group Home (Community Residence – Supervised)
+Easter Seals Delaware & Maryland's Eastern Shore,ESDE-BE,RptNmDifPr,A,Admitted,01-JAN-1988,,,444444,1-Residential,NC Facility-Based Activities – 61CC,CR-Group Home (Community Residence – Supervised)
+Easter Seals Delaware & Maryland's Eastern Shore,ESDE-BE,RepeatP,A,Admitted,03-MAR-1976,555555,555-55-5555,555555,1-Residential,NC Facility-Based Activities – 61CC,CR-Group Home (Community Residence – Supervised)
+Easter Seals Delaware & Maryland's Eastern Shore,ESDE-BE,RepeatP,A,Admitted,,555555,,,2-Day,NC Facility-Based Activities – 61CC,DH (Day Habilitation Site)
+Easter Seals Delaware & Maryland's Eastern Shore,ESDE-BE,RepeatP,A,Admitted,03-MAR-1976,,,,2-Day,NC Facility-Based Activities – 61CC,DS (Day Services)
+Easter Seals Delaware & Maryland's Eastern Shore,ESDE-BE,RepeatP,A,Admitted,,,555-55-5555,,2-Day,NC Facility-Based Activities – 61CC,DH (Day Habilitation Site)
+Easter Seals Delaware & Maryland's Eastern Shore,ESDE-BE,RepeatP,A,Admitted,,,,555555,2-Day,NC Facility-Based Activities – 61CC,DH (Day Habilitation Site)
